@@ -3,3 +3,5 @@
 2-groups: all groups the current user is part of
 3-new_owner: changer file owner
 4-empty: empty file
+5-execute: execute file permission to owner
+6-multiple_permissions
