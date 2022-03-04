@@ -5,3 +5,4 @@
 4-empty: empty file
 5-execute: execute file permission to owner
 6-multiple_permissions
+7-everybody: add execution permission to owner,group,others
